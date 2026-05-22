@@ -224,5 +224,5 @@ This project helped in understanding:
 Jyuun Singh
 
 # Links
-1.Github repo - 
+1.Github repo - https://github.com/jyuun-singh/stock-price-predictor.git
 2.Streamlit(Deployed model) - https://stock-price-predictor-xjy9hewrd39qz8plnuqjin.streamlit.app/
