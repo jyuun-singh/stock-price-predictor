@@ -3,8 +3,8 @@ import yfinance as yf
 import pandas as pd
 import joblib
 
-model = joblib.load('../models/stock_model.pkl')
-scaler = joblib.load('../models/scaler.pkl')
+model = joblib.load('models/stock_model.pkl')
+scaler = joblib.load('models/scaler.pkl')
 
 st.title("📈 Stock Return Predictor")
 
