@@ -222,3 +222,7 @@ This project helped in understanding:
 # Author
 
 Jyuun Singh
+
+# Links
+1.Github repo - 
+2.Streamlit(Deployed model) - https://stock-price-predictor-xjy9hewrd39qz8plnuqjin.streamlit.app/
